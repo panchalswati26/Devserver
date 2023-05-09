@@ -9,7 +9,7 @@ import { LoginComponent } from './collage/login/login.component';
 import { AuthGuard } from './auth.guard';
 import { ParentComponent } from './datacommunication/parent/parent.component';
 import { CompAComponent } from './datacommunication/comp-a/comp-a.component';
-import { CompBComponent } from './datacommunication/comp-b/comp-b.component';
+import { CompBComponent } from './datacommunication/comp-b/comp-b.component'; 
 import { PrimeNGComponent } from './thirdPartyLibries/prime-ng/prime-ng.component';
 
 const routes: Routes = [
